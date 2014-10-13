@@ -1,0 +1,16 @@
+*.pyc
+*.o
+client/simulations_config_directory/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.*~
+instance_*.*cfg
+*thumbs.db
+Thumbs.db
+datamining/plots/
+*file_credentials
+*.template
+

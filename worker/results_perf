@@ -1,0 +1,9 @@
+MemoryUtilization: 11.4500529941706 (Percent)
+MemoryUsed: 67.51953125 (Megabytes)
+MemoryAvailable: 522.16796875 (Megabytes)
+Using AWS credentials file <./awscreds.template>
+Endpoint: https://monitoring.eu-west-1.amazonaws.com/
+Payload: AWSAccessKeyId=%27AKIAJIRVPA5F2KWDC6AQ%27&Action=PutMetricData&MetricData.member.1.Dimensions.member.1.Name=InstanceId&MetricData.member.1.Dimensions.member.1.Value=i-a68c55eb&MetricData.member.1.MetricName=MemoryUtilization&MetricData.member.1.Timestamp=2013-05-15T17%3A49%3A13.000Z&MetricData.member.1.Unit=Percent&MetricData.member.1.Value=11.4500529941706&MetricData.member.2.Dimensions.member.1.Name=InstanceId&MetricData.member.2.Dimensions.member.1.Value=i-a68c55eb&MetricData.member.2.MetricName=MemoryUsed&MetricData.member.2.Timestamp=2013-05-15T17%3A49%3A13.000Z&MetricData.member.2.Unit=Megabytes&MetricData.member.2.Value=67.51953125&MetricData.member.3.Dimensions.member.1.Name=InstanceId&MetricData.member.3.Dimensions.member.1.Value=i-a68c55eb&MetricData.member.3.MetricName=MemoryAvailable&MetricData.member.3.Timestamp=2013-05-15T17%3A49%3A13.000Z&MetricData.member.3.Unit=Megabytes&MetricData.member.3.Value=522.16796875&Namespace=System%2FLinux&SignatureMethod=HmacSHA256&SignatureVersion=2&Timestamp=2013-05-15T17%3A49%3A13.000Z&Version=2010-08-01&Signature=tC8mvd0icnvqrCkjClKQwr5NQupNnP6tfWs%2BRKTr8iY%3D
+
+Verification completed successfully. No actual metrics sent to CloudWatch.
+

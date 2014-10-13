@@ -1,0 +1,276 @@
+m1.large
+	 Global performances : 
+		 Max memory utilization : 8.54288727778 % 
+		 Max memory used: 641.9609375 Megabytes 
+		 Max memory available : 7410.30078125 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 3.34619988627 % 
+		 Average memory used: 251.452412539 Megabytes 
+		 Average memory available : 7263.11399371 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1182)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 5.7390560166 % 
+
+	/home/ubuntu/simulation.sh (pid=1183)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 5.41093264249 % 
+
+t1.micro
+	 Global performances : 
+		 Max memory utilization : 42.3966613672 % 
+		 Max memory used: 250.0078125 Megabytes 
+		 Max memory available : 530.33984375 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 21.250200639 % 
+		 Average memory used: 125.309776893 Megabytes 
+		 Average memory available : 464.377723107 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1126)
+		 Max memory utilization : 1.3 % 
+		 Max cpu utilization: 8.5 % 
+		 Average memory utilization : 0.958761206194 % 
+		 Average cpu utilization: 5.45256723716 % 
+
+m1.large
+	 Global performances : 
+		 Max memory utilization : 8.23307232983 % 
+		 Max memory used: 618.6796875 Megabytes 
+		 Max memory available : 7409.63671875 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 3.25609351445 % 
+		 Average memory used: 244.681309393 Megabytes 
+		 Average memory available : 7269.88509686 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1192)
+		 Max memory utilization : 0.1 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.00731142989357 % 
+		 Average cpu utilization: 5.91568718186 % 
+
+	/home/ubuntu/simulation.sh (pid=1193)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 5.48132223763 % 
+
+m1.large
+	 Global performances : 
+		 Max memory utilization : 8.56014542589 % 
+		 Max memory used: 643.2578125 Megabytes 
+		 Max memory available : 7408.109375 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 3.29188573089 % 
+		 Average memory used: 247.370939266 Megabytes 
+		 Average memory available : 7267.19546698 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1190)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 6.2078612209 % 
+
+	/home/ubuntu/simulation.sh (pid=1191)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 5.56833333333 % 
+
+c1.xlarge
+	 Global performances : 
+		 Max memory utilization : 19.7097581968 % 
+		 Max memory used: 1382.03515625 Megabytes 
+		 Max memory available : 6892.953125 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 4.26888930022 % 
+		 Average memory used: 299.331682922 Megabytes 
+		 Average memory available : 6712.60191083 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1200)
+		 Max memory utilization : 0.1 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0325701202061 % 
+		 Average cpu utilization: 12.9372638809 % 
+
+	/home/ubuntu/simulation.sh (pid=1201)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.8 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 8.29652421652 % 
+
+t1.micro
+	 Global performances : 
+		 Max memory utilization : 42.4523052464 % 
+		 Max memory used: 250.3359375 Megabytes 
+		 Max memory available : 529.87109375 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 21.5773714891 % 
+		 Average memory used: 127.2390625 Megabytes 
+		 Average memory available : 462.4484375 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1129)
+		 Max memory utilization : 1.3 % 
+		 Max cpu utilization: 8.4 % 
+		 Average memory utilization : 0.954957891877 % 
+		 Average cpu utilization: 5.55381689758 % 
+
+t1.micro
+	 Global performances : 
+		 Max memory utilization : 41.8607578166 % 
+		 Max memory used: 246.84765625 Megabytes 
+		 Max memory available : 530.1953125 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 21.5472592569 % 
+		 Average memory used: 127.061494431 Megabytes 
+		 Average memory available : 462.626005569 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1130)
+		 Max memory utilization : 2013-06-29 12:17:55.320723 % 
+		 Max cpu utilization: 8.4 % 
+		 Average memory utilization : 0.958518102722 % 
+		 Average cpu utilization: 5.43760875667 % 
+
+t1.micro
+	 Global performances : 
+		 Max memory utilization : 42.7550344462 % 
+		 Max memory used: 252.12109375 Megabytes 
+		 Max memory available : 531.08203125 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 22.0272611873 % 
+		 Average memory used: 129.892005814 Megabytes 
+		 Average memory available : 459.795494186 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1108)
+		 Max memory utilization : 7.7 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.946471189144 % 
+		 Average cpu utilization: 5.57985095225 % 
+
+m1.large
+	 Global performances : 
+		 Max memory utilization : 9.10590836859 % 
+		 Max memory used: 684.26953125 Megabytes 
+		 Max memory available : 7410.55859375 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 3.31244698766 % 
+		 Average memory used: 248.91602856 Megabytes 
+		 Average memory available : 7265.65037769 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1213)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.4 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 5.36351495726 % 
+
+	/home/ubuntu/simulation.sh (pid=1214)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 7.7 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 5.2514957265 % 
+
+c1.xlarge
+	 Global performances : 
+		 Max memory utilization : 17.6716590857 % 
+		 Max memory used: 1239.125 Megabytes 
+		 Max memory available : 6893.0703125 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 3.91830488636 % 
+		 Average memory used: 274.748936632 Megabytes 
+		 Average memory available : 6737.18465712 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1207)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 9.15523483366 % 
+
+	/home/ubuntu/simulation.sh (pid=1208)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 15.753271028 % 
+
+c1.xlarge
+	 Global performances : 
+		 Max memory utilization : 22.591118378 % 
+		 Max memory used: 1584.07421875 Megabytes 
+		 Max memory available : 6893.13671875 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 4.05661719579 % 
+		 Average memory used: 284.447303922 Megabytes 
+		 Average memory available : 6727.48628983 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1206)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.6 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 8.21751179245 % 
+
+	/home/ubuntu/simulation.sh (pid=1207)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 12.7638236978 % 
+
+c1.xlarge
+	 Global performances : 
+		 Max memory utilization : 24.0204339143 % 
+		 Max memory used: 1684.296875 Megabytes 
+		 Max memory available : 6893.2109375 Megabytes 
+		 Max swap utilization : 0.0 % 
+		 Max swap used : 0.0 % 
+		 Average memory utilization : 4.03009258942 % 
+		 Average memory used: 282.587416137 Megabytes 
+		 Average memory available : 6729.34617761 Megabytes 
+		 Average swap utilization : 0.0 % 
+		 Average swap used : 0.0 % 
+
+	/home/ubuntu/simulation.sh (pid=1223)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 9.09768145161 % 
+
+	/home/ubuntu/simulation.sh (pid=1224)
+		 Max memory utilization : 0.0 % 
+		 Max cpu utilization: 9.9 % 
+		 Average memory utilization : 0.0 % 
+		 Average cpu utilization: 14.7877974684 % 
+
